@@ -1,0 +1,9 @@
+streamlt
+multion
+open-interpreter
+tempfile
+keyboard
+sounddevice
+soundfile
+openai
+threading
