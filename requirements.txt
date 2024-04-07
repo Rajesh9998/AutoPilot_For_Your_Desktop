@@ -1,9 +1,7 @@
-streamlt
-multion
-open-interpreter
-tempfile
-keyboard
-sounddevice
-soundfile
-openai
-threading
+streamlt>=1.32.2
+multion>=1.16.0
+open-interpreter>=0.2.4
+keyboard>=0.13.5
+sounddevice>=0.4.6
+soundfile>=0.12.1
+openai>=1.13.3
