@@ -1,10 +1,9 @@
---- START OF FILE README.md ---
 
 AutoPilot For Your Desktop
 
 An Intelligent Virtual Assistant Framework for Automating Your Mundane System Tasks and Web Task Automations
 
-Description
+Description :
 
 AutoPilot For Your Desktop leverages the power of Large Language Models (LLMs) and web automation to act as your personal desktop assistant. It can understand your requests and execute code to perform tasks such as:
 
