@@ -18,6 +18,10 @@
 - **Speech-to-Text with OpenAI Whisper:** Effortlessly interact with the assistant using voice commands, transcribed accurately with OpenAI Whisper.
 - **Streamlit-Powered User Interface:** Enjoy a user-friendly and visually appealing interface built with Streamlit.
 
+**Preview:**
+
+![](Examples/Screenshot%202024-03-29%20205433.png)
+
 ## Installation
 
 1. Clone this repository:
